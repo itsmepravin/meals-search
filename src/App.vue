@@ -1,5 +1,5 @@
 <template>
-  <h1 class="bg-red-500">Pravin</h1>
+<router-view />
 </template>
 
 <script setup>
