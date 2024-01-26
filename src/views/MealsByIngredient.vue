@@ -1,6 +1,6 @@
 <template>
 <div>
-    <h1>MealList</h1>
+    By Ingredients
 </div>
 </template>
 
